@@ -21,4 +21,5 @@ public class UserController {
         System.out.println("");
         return userservice.queryList();
     }
+	//³ô¼¦b
 }
